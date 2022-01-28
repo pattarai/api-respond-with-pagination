@@ -6,8 +6,8 @@ To process data based on the pagination. If your dataset is too big, you would o
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/api-respond-with-pagination/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/api-respond-with-pagination" />
 </a>
 
 
