@@ -1,7 +1,7 @@
-# {project title} ✨
+# API Respond With Pagination ✨
 
 ### Description
-{mini project description goes here...}
+To process data based on the pagination. If your dataset is too big, you would only want to fetch the data for current page, you can use server-side pagination. 
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
